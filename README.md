@@ -31,3 +31,9 @@
 
 **Contributing:**
 Perfect example of how *not* to do things.
+
+TODO:
+- 
+- temperature monitoring
+- automated fan control
+- thread/process for automatic control (using pthread) 
