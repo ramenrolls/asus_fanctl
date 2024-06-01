@@ -13,11 +13,11 @@
 
 **Depends:**
 
-1. Compile this masterpiece with:  
+1. Compile :  
    ```bash
    gcc -o fanctl_gui fanctl_gui.c `pkg-config --cflags --libs gtk+-3.0`
    ```
-2. Run it (preferably in a fireproof bunker):
+2. Run it:
    ```bash
    sudo ./fanctl_gui
    ```
