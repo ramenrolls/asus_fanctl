@@ -1,8 +1,9 @@
 ### Fan Control: The Duct Tape of Thermal Management
 
-**Tired of your laptop sounding like a jet engine?** This expertly crafted C code and GTK magic lets you wrestle control of your fan speed
+**Tired of your fans not working?** This expertly crafted C code and GTK magic lets you wrestle control of your fan speed
 
-**Disclaimer:** This is the "duct tape and paperclip" approach to fan control
+**Disclaimer:** This is the "duct tape and paperclip" approach to fan control, My system fans refuse to cooperate, thanks to the lovely *asus_wmi_sensors* driver. Working under high CPU load, often times leads to thermal throttling. Power related shutdowns. This will let me compile without my system spontaneously combusting. It's not pretty, but it's keeping the lights on (for now).
+
 
 **Installation (Choose Your Poison):**
 
